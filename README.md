@@ -56,7 +56,7 @@ After 2nd epoch:</br>
 - Global pair:</br>
 ![celebA2_global](data/results/celebA/global_pair_epoch_1_batch_150.png)
 
-Inception Score on validation dataset for Global Pair:
+Inception Score on validation dataset for Global Pair:</br>
 ![celebA_IS_global](data/results/celebA/InceptionScore_validation_global_pair.png)
 
 ## Training details
