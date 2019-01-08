@@ -1,0 +1,12 @@
+
+\.idea/
+
+__pycache__/
+
+data/mnist/
+
+data/processed/
+
+data/raw/
+
+train_models/
