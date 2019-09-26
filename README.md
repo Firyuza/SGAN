@@ -74,4 +74,4 @@ I achieved such results using DCGAN with vanilla loss function based on Kullback
 
 ## Author
 
-Firiuza Shigapova / [@Firyuza](https://github.com/Firyuza) github / [@SirenaFiriuza](https://medium.com/@SirenaFiriuza) medium
+Firiuza Shigapova / [@Firyuza](https://github.com/Firyuza) github
